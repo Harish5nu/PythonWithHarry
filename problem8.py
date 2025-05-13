@@ -2,4 +2,4 @@
 a= int(input("enter number 1:"))
 b= int(input("enter number 2:"))
 
-print("The average of two numbers is :", (a+b)/2)
+print("The Average of Two Numbers is :", (a+b)/2)
